@@ -1,0 +1,18 @@
+<application>
+  <component name="GraziConfig">
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="100% format" />
+            <option value="która aktualna" />
+            <option value="które składają" />
+            <option value="którego należy" />
+            <option value="mieści się w pierwszej linii jak elementy w klamrach przeniesione zostaną do nowej linii i" />
+            <option value="składa listę folderów na nowo Lepiej by było chyba zastosować tu bulk-a." />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
+  </component>
+</application>
