@@ -1,0 +1,5 @@
+<templateSet group="user">
+  <template name="c" value="console.log('$body$')" description="console.log" toReformat="false" toShortenFQNames="true">
+    <variable name="body" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
