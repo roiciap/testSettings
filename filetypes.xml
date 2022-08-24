@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="file-project-to-export" type="AUTO_DETECTED" />
+      <mapping pattern="ast-import-reader-service" type="AUTO_DETECTED" />
+      <mapping pattern="alias-recognise-service" type="AUTO_DETECTED" />
+      <mapping pattern="file-localization" type="AUTO_DETECTED" />
+      <mapping ext="enum" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
