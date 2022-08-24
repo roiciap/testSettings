@@ -1,6 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="JavaScript/Declaration/Split declaration and initialization" />
-    <ignoreAction name="Other/Put elements on multiple lines" />
-  </component>
-</application>
